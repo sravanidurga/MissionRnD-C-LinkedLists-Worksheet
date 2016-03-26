@@ -19,5 +19,6 @@ struct node {
 };
 
 struct node * removeEveryKthNode(struct node *head, int K) {
+	
 	return NULL;
 }
